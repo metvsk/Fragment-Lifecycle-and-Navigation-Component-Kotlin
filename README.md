@@ -8,5 +8,5 @@ Similar to this https://github.com/metvsk/Word-Search-Kotlin
 => Kotlin <br>
 => Fragment implementation <br>
 => safe args <br>
-=> Jetpacj Navigation Library usage <br>
+=> Jetpack Navigation Library usage <br>
 
